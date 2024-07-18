@@ -21,7 +21,7 @@ After organizing the dataset and assigning the relevant features to the X variab
 Results:-
 Mean Squared Error: 1.67342582381245e-05
 
-3.)Lasso Regression
+3.) Lasso Regression
 
  Following the application of Ridge regression, we further refined our predictive model by 
  employing Lasso regression on the dataset. Lasso regression, which stands for Least Absolute 
@@ -35,7 +35,7 @@ Mean Squared Error: 1.67342582381245e-05
  Results:-
  Mean Squared Error: 0.0005850677736469955
 
-4.)Support Vector Regression (SVR) 
+4.) Support Vector Regression (SVR) 
 
  After employing Lasso regression, we further experimented with Support Vector Regression (SVR)
  to enhance the predictive accuracy of our model. SVR, an extension of Support Vector Machines
